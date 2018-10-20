@@ -35,19 +35,19 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+The Off-Campus Housing Sorter
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
-
+It displays off-campus housing locations sorted to match the wants of the users. For example, if a user wanted to live
+close to a certain area they could select that area and the program would display locations nearest to that area. The program
+also displays locations based on a variety of properties such as price, room sizes, etc.
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
+Location inputs. These would be properties about locations that are being displayed through our program such as number of bedrooms,
+size, price, etc. As well as the user would input preferences in order to change how the data is sorted and displayed to them.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+!See Figure 1 https://imgur.com/a/X30Ief8
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
