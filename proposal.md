@@ -47,7 +47,7 @@ Location inputs. These would be properties about locations that are being displa
 size, price, etc. As well as the user would input preferences in order to change how the data is sorted and displayed to them.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-![See Figure 1](https://imgur.com/dALXHQL)
+![See Figure 1](https://github.com/jpaquette-student/didactic-winner/blob/master/dALXHQL%20-%20Imgur.jpg)
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
