@@ -22,8 +22,9 @@ members able to help we will then consult outside sources.
 
 ## How we will back up each other to ensure that deadlines are not missed
 We will set progress goals so that way each task should be completed. Also, if 
-a group member were to suddenly be unable to complete their task another group member
-would be able to do it for them without having to do the whole task. 
+a group member were suddenly unable to complete their task, another group member
+would be able to step in without having to do the whole task.
+
 ## Add any other rules that your team establishes to help each other work effectively together
 Just communicate well and work together.
 
