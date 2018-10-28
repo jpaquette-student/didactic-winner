@@ -62,7 +62,7 @@ UI: Would display the UI and take in input from the user
 Main: Take input from user and call to tree method to sort based on input and then send the tree to be displayed in UI.
 Would also calculate the distance from user click to locations.
 
-6. Comprehensive testing for each unit
+6. Comprehensive testing for each unit  
 Red-Black Tree: Check whether all the locations that fit the user's selection are sorted. Check to see if the sort causes inbalance to the tree.  
 Housing Nodes: Test to see if the housing locations can be updated and accessed without error.  
 UI: Test for IndexOutOfBoundsException and IllegalArgumentException in case the user's inputs are invalid.  
