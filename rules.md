@@ -26,6 +26,7 @@ a group member were suddenly unable to complete their task, another group member
 would be able to step in without having to do the whole task.
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Just communicate well and work together.
+Just communicate well and work together.  
+Help each other out and sort the problems together so that everyone's on the same page. 
 
 
