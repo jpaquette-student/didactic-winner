@@ -12,7 +12,7 @@
        * GitHub username 3: Christian-Henke    name 3: Christian Henke
        * GitHub username 4: EffyChu            name 4: Effy Chu
        * GitHub username 5:                    name 5:
-   * When did you complete this exercise? 10/20/2018
+   * When did you complete this exercise? 10/28/2018
    * How long did it take your team to complete this exercise? 2 hours 45 minutes
 
 ## Table of Contents
